@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vaidpure</string>
+    <string name="ad_mobs_app_key">ca-app-pub-6562435682735517~1138737645</string>
+    <string name="ad_mobs_banner_ad_key">ca-app-pub-6562435682735517/5300605242</string>
+    <string name="ad_mobs_interstitial_ad_key">ca-app-pub-6562435682735517/4725890175</string>
+    <string name="ad_mobs_rewarded_ad_key">ca-app-pub-6562435682735517/8620957054</string>
+    <string name="fb_banner_placement_id">455352255381607_616532972596867</string>
+    <string name="fb_interstitial_placement_id">455352255381607_620083605575137</string>
+    <string name="fb_reward_placement_id">455352255381607_620084395575058</string>
+</resources>
